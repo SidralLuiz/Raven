@@ -1,2 +1,2 @@
 create database Estoque;
-use Estoque;
+use Estoque;adada
